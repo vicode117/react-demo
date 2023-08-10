@@ -1,0 +1,11 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "tic-tac-toe demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "vicode117",
+  "license": "MIT"
+}
